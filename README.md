@@ -67,6 +67,15 @@ Os testes podem ser feitos usando **Postman** ou a interface Swagger.
 
 ---
 
+## 📎 Endpoints disponíveis
+
+- POST /signup — Cadastrar usuário
+- POST /login — Login com JWT
+- POST /pacientes — Criar paciente
+- GET /pacientes — Listar pacientes
+- POST /consultas — Marcar consulta
+- GET /consultas/paciente/{paciente_id} — Consultas de um paciente
+
 ## 📂 Organização
 
 * `app/` → Código principal da API
