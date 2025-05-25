@@ -61,7 +61,7 @@ Acesse:
 
 ---
 
-## 🧪 Testes
+## Testes
 
 Os testes podem ser feitos usando **Postman** ou a interface Swagger.
 
